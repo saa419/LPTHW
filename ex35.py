@@ -56,7 +56,7 @@ def bear_room():
 def cthulhu_room():
 	print "Here you see the great evil Cthulhu."
 	print "He, it, whatever stares at you and you go insane."
-	print "Do you flee for your like or eat your head?"
+	print "Do you flee for your life or eat your head?"
 	
 	choice = raw_input("> ")
 	
